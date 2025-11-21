@@ -16,12 +16,13 @@ A RESTful API built with Django and Django REST Framework for tracking stock pri
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Setup](#setup)
-- [Authentication](#authentication)
-- [API Endpoints](#api-endpoints)
-- [Usage Examples](#usage-examples)
-- [Testing](#testing)
+- Installation
+- Setup
+- Authentication
+- Stub Data
+- API Endpoints
+- Usage Examples
+- Testing
 
 ***
 
