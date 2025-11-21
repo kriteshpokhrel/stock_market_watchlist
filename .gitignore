@@ -1,0 +1,5 @@
+*.pyc
+__pycache__/
+.env
+stock_market_env/
+*.log
