@@ -48,7 +48,9 @@ pip install -r requirements.txt
 ```
 
 4. **Configure environment variables:**
-    - Create a `.env` file and set up your secret key, DB config, JWT settings.
+    - Create a `.env` file and set up your DB, port. Setting up following variables is a must:
+        - DB_NAME, DB_USER, DB_PASSWORD, DB_HOST, DB_PORT
+
 5. **Run migrations:**
 
 ```
