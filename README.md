@@ -86,6 +86,16 @@ python manage.py runserver
 
 ***
 
+## Stub Data
+
+- Mock data is stored at `fixtures/initial_data.json`
+- Run following command from the root folder of project:
+```
+ python manage.py loaddata initial_data.json
+```
+
+***
+
 ## API Endpoints
 
 | Endpoint | Description | Auth Required |
