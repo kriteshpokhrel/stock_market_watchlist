@@ -3,3 +3,4 @@ __pycache__/
 .env
 stock_market_env/
 *.log
+.env
