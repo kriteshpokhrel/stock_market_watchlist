@@ -1,0 +1,152 @@
+[
+  {
+    "model": "api.stock",
+    "pk": 1,
+    "fields": {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "price": "150.00",
+      "last_updated": "2025-11-21T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.stock",
+    "pk": 2,
+    "fields": {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "price": "320.50",
+      "last_updated": "2025-11-21T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.stock",
+    "pk": 3,
+    "fields": {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc.",
+      "price": "2850.00",
+      "last_updated": "2025-11-21T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.stock",
+    "pk": 4,
+    "fields": {
+      "symbol": "AMZN",
+      "name": "Amazon.com Inc.",
+      "price": "140.75",
+      "last_updated": "2025-11-21T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.stock",
+    "pk": 5,
+    "fields": {
+      "symbol": "META",
+      "name": "Meta Platforms Inc.",
+      "price": "330.20",
+      "last_updated": "2025-11-21T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.stock",
+    "pk": 6,
+    "fields": {
+      "symbol": "NFLX",
+      "name": "Netflix Inc.",
+      "price": "420.00",
+      "last_updated": "2025-11-21T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.stock",
+    "pk": 7,
+    "fields": {
+      "symbol": "TSLA",
+      "name": "Tesla Inc.",
+      "price": "250.10",
+      "last_updated": "2025-11-21T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.stock",
+    "pk": 8,
+    "fields": {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "price": "470.00",
+      "last_updated": "2025-11-21T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.stock",
+    "pk": 9,
+    "fields": {
+      "symbol": "BRK.B",
+      "name": "Berkshire Hathaway Inc.",
+      "price": "360.00",
+      "last_updated": "2025-11-21T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.stock",
+    "pk": 10,
+    "fields": {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "price": "155.40",
+      "last_updated": "2025-11-21T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.stock",
+    "pk": 11,
+    "fields": {
+      "symbol": "V",
+      "name": "Visa Inc.",
+      "price": "240.30",
+      "last_updated": "2025-11-21T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.stock",
+    "pk": 12,
+    "fields": {
+      "symbol": "MA",
+      "name": "Mastercard Inc.",
+      "price": "390.80",
+      "last_updated": "2025-11-21T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.stock",
+    "pk": 13,
+    "fields": {
+      "symbol": "KO",
+      "name": "Coca-Cola Co.",
+      "price": "60.25",
+      "last_updated": "2025-11-21T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.stock",
+    "pk": 14,
+    "fields": {
+      "symbol": "PEP",
+      "name": "PepsiCo Inc.",
+      "price": "170.10",
+      "last_updated": "2025-11-21T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.stock",
+    "pk": 15,
+    "fields": {
+      "symbol": "WMT",
+      "name": "Walmart Inc.",
+      "price": "155.00",
+      "last_updated": "2025-11-21T00:00:00Z"
+    }
+  }
+]
